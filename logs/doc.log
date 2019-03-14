@@ -1,0 +1,25 @@
+2019-03-14 12:26:40 TRACE root:21 - Method isPalindrome starts
+2019-03-14 12:26:40 TRACE root:29 - Pushing in stack begins
+2019-03-14 12:26:41 TRACE root:33 - Push in stack: element 0 = '1'
+2019-03-14 12:26:41 TRACE root:33 - Push in stack: element 1 = '2'
+2019-03-14 12:26:41 TRACE root:33 - Push in stack: element 2 = '3'
+2019-03-14 12:26:41 TRACE root:33 - Push in stack: element 3 = '4'
+2019-03-14 12:26:41 TRACE root:33 - Push in stack: element 4 = '5'
+2019-03-14 12:26:41 TRACE root:33 - Push in stack: element 5 = '6'
+2019-03-14 12:26:41 TRACE root:33 - Push in stack: element 6 = '7'
+2019-03-14 12:26:41 TRACE root:33 - Push in stack: element 7 = '8'
+2019-03-14 12:26:41 TRACE root:33 - Push in stack: element 8 = '9'
+2019-03-14 12:26:41 TRACE root:33 - Push in stack: element 9 = '1'
+2019-03-14 12:26:41 TRACE root:40 - Second loop begins
+2019-03-14 12:26:41 TRACE root:42 - Matching elements: 1 ? 1
+2019-03-14 12:26:41 TRACE root:42 - Matching elements: 9 ? 9
+2019-03-14 12:26:41 TRACE root:42 - Matching elements: 8 ? 8
+2019-03-14 12:26:41 TRACE root:42 - Matching elements: 7 ? 7
+2019-03-14 12:26:41 TRACE root:42 - Matching elements: 6 ? 6
+2019-03-14 12:26:41 TRACE root:42 - Matching elements: 5 ? 5
+2019-03-14 12:26:41 TRACE root:42 - Matching elements: 4 ? 4
+2019-03-14 12:26:41 TRACE root:42 - Matching elements: 3 ? 3
+2019-03-14 12:26:41 TRACE root:42 - Matching elements: 2 ? 2
+2019-03-14 12:26:41 TRACE root:42 - Matching elements: 1 ? 1
+2019-03-14 12:26:41 TRACE root:50 - String is a palindrome
+2019-03-14 12:26:41 TRACE root:22 - Result = true
